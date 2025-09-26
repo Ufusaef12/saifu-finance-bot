@@ -1,0 +1,1 @@
+worker: python saifu_finance_bot.py
